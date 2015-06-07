@@ -10,4 +10,5 @@ mv .vimrc ~/
 rm -rf .git
 cd ..
 rm -r vimrc
+clear
 exit
