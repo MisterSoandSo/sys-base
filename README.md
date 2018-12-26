@@ -1,9 +1,8 @@
-# vimrc
-Custom vimrc configs that can be instantly installed with the bash script.
+# Personal Configuration Installs
+Custom configs that can be instantly installed manually or automatically with the bash script.
+
+###Current Custom Configs
+1. Vim
+2. Tmux
 
 
-##Install Instructions  
-1. Download the .installvim.sh
-2. Open Terminal 
-3. Use chmod +x installvim.sh
-4. Execute ./installvim.sh
