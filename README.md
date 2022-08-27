@@ -1,16 +1,9 @@
-# Personal Configuration Installs
-Custom configs that can be instantly installed manually or automatically with the bash script.
+# Personal Configurations and Scripts
 
-### Current Custom Configs
-1. Vim
-2. Tmux
+This repository maintains my current up to date automation and configurations for my Linux-based systems.
 
-### Install instructions
-1. Download/Clone the instance of git.
-2. Type the following once your in the file directory to make the bash script executable:
-
-```
-	chmod +x installcnfg.sh 
-```
+Feel free to use or reference this repository.
 
 
+## License
+[GNU-3](https://choosealicense.com/licenses/gpl-3.0/)
