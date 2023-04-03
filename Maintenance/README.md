@@ -1,13 +1,11 @@
 # Maintenance
  
+## Scripts Folders
+Miscellaneous - Scripts that do not fall into a specific category or needs to be revised. Use with caution.
 
-## Scripts
-* PingCheck 			- Checks device availablity on network
-* custom_gitpush.sh 	- Custom gitpush script
-* custom_pihole_up.sh 	- Basic pihole -up with custom default port 
-* pi_update.sh 			- Raspberry Pi update script 
-* fresh_install.sh 		- Automated install of favorite programs
-* new_bash.sh 			- Generate a empty bash script template
+Servers - Server/Web Resource based scripts.
+
+SUBScripts - Custom server setup and maintenance scripts.
 
 ## Setting Environent Variables
 ```
